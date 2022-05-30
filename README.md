@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AntonMineev
 - 👀 I’m interested in web3.0, blockchain, 
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Open Source project
 - 📫 How to reach me bazed11@gmail.com
 
 <!---
